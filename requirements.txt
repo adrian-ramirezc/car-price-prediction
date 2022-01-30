@@ -11,4 +11,9 @@ pip==21.2.4
 requests==2.27.1
 scikit-learn==1.0.2
 scipy==1.7.3
+passlib==1.7.0
+SQLAlchemy==1.1.5
+Werkzeug==0.11.15
+gunicorn==19.0.0
+gevent==1.2.1
 
