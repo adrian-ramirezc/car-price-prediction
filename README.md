@@ -1,6 +1,6 @@
 # Car Price Prediction
 
-End to end project focused in the model deployment on cloud (platform as a service - PaaS) 
+End to end project **focused** in the **model deployment on cloud** (platform as a service - PaaS) 
 
 - Data Preparation
 - Machine Learning Modeling
